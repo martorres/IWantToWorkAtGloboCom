@@ -44,6 +44,14 @@ Inglês - Cursando o nível básico II.
 
 ###Conhecimentos:
 
-**Nível Intermediário:** HTML5/CSS3 - PHP - ASP - Javascript - Jquery - Mysql - SEO - Cross-browser
+**Nível Intermediário:** HTML5/CSS3 - PHP - ASP - Wordpress - Javascript - Jquery - Mysql - SEO - Cross-browser
 
 **Nível Básico:** Java - C/C++
+
+###Alguns Trabalhos:
+
+http://www.capnarede.com.br - PHP, HTML, CSS e Moodle.
+
+http://www.rbspbrj.com.br/Geriatria/index.html - HTML, CSS, Jquery, Javascript e PHP.
+
+http://www.martorres.com.br - HTML, CSS, Jquery e PHP.
