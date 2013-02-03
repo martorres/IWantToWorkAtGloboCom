@@ -30,10 +30,20 @@ Licenciatura em Informática pela Unigranrio concluído em 2010.
 
 Formação Web Designer pelo Instituto Infnet concluído em 2011.
 
+###Experiência:
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Auxíliar Administrativo - Curso Flama de Vestibulares - 07/1998 à 04/2000.
+
+Programador - Companhia Municipal de Limpeza Urbana de Niterói - 02/2001 à 01/2013.
+
+Instrutor de Informática - Colégio de Aplicação da Unigranrio - 04/2011 à Até a presente data.
+
+###Idioma:
+
+Inglês - Cursando o nível básico II.
+
+###Conhecimentos:
+
+**Nível Intermediário:** HTML5/CSS3 - PHP - ASP - Javascript - Jquery - Mysql - SEO - Cross-browser
+
+**Nível Básico:** Java - C/C++
